@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-### <img src="log2.png" width="60px"> Benvenuti nel mio spazio di progresso e scoperta.
+### <img src="log2.jpg" width="60px"> Benvenuti nel mio spazio di progresso e scoperta.
 
 </hr>
 
@@ -39,5 +39,5 @@ You can click the Preview link to take a look at your changes.
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Termux-tools-brightgreen?style=flat&logo=Termux&logoColor=white&color=2bbc8a)
  
-### <img src="log1.png" width="60px"> 
+### <img src="log1.jpg" width="60px"> 
  
