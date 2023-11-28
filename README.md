@@ -12,6 +12,26 @@ You can click the Preview link to take a look at your changes.
 ---
 
 
+
+<p align="center">
+
+  <a href="https://github.com/ElaNyx03/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=::: ElaNyx03%20:::;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+
+  
+</p>
+
+
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/ela-d-11053b29a/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://discord.com/invite/RP6fUkuG" alt="Discord" title="ElaNyx03 Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+
+</p>
+
+
 <img align="center" width="20%" src="github.png" />
 
 </hr>
@@ -20,6 +40,9 @@ You can click the Preview link to take a look at your changes.
 ![GitHub User's stars](https://img.shields.io/github/stars/ElaNyx03?style=social)
 ![GitHub top language](https://img.shields.io/github/languages/top/ElaNyx03/ElaNyx03)
 ![GitHub](https://img.shields.io/badge/ElaNyx03-happycoding-success)
+
+
+
 
 
 ---
