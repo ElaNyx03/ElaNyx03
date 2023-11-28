@@ -3,6 +3,9 @@
 ElaNyx03/ElaNyx03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Benvenuti+nel+mio;spazio+di+progresso+e+scoperta!; Sempre+alla+ricerca;di+nuove sfide!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+</p>
 
 <img align="center" width="50%" src="1701192416677.png" /> Benvenuti nel mio spazio di progresso e scoperta.
 <img align="center" width="20%" src="github.png" />
