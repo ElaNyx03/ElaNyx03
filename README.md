@@ -44,6 +44,14 @@ You can click the Preview link to take a look at your changes.
 
 
 
+## Skills
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,docker,html,css,go,java,js,bash,mysql,nextjs,nodejs,py,react,redis,bootstrap,dart,docker,eclipse,heroku,linux,ps,unity,vscode,wordpress,arduino,azure&perline=13" />
+  </a>
+</p>
 
 ---
 ![Github Stats](https://github-stats-alpha.vercel.app/api/?username=ElaNyx03&tc=333&ic=333)
