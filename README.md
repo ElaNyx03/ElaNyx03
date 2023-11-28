@@ -23,5 +23,9 @@ You can click the Preview link to take a look at your changes.
 
 
 
+<a href="https://github.com/ElaNyx03">
+    <img align="center" width="49%" src="./achievements.svg" />
+</a>
+
 
 
