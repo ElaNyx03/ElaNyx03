@@ -27,5 +27,27 @@ You can click the Preview link to take a look at your changes.
     <img align="center" width="49%" src="./achievements.svg" />
 </a>
 
-  <img align="center" width="23%" src="1701192416682.png" /> README BY ElaNyx03
+
+
+<a href="https://github.com/ElaNyx03"><img align="left" title="Github" alt="Github" width="200px" src="1701192416677.png" /></a>
+
+
+<p align="center"><a href="https://github.com/ElaNyx03">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ElaNyx03&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/ElaNyx03"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElaNyx03&layout=compact&theme=react&hide_border=true" />
+ 
+ 
+<p align="center">
+  <a href="https://github.com/ElaNyx03">
+  </a>
+</p>
+
+
+  
+
+
+
+
+  <img align="center" width="23%" src="1701192416682.png" /> 𝓡𝓮𝓪𝓭𝓶𝓮 𝓑𝔂 :::〘ElaNyx03〙:::
 
