@@ -4,8 +4,8 @@ ElaNyx03/ElaNyx03 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-  <img align="center" width="50%" src="1701192416677.png" /> Benvenuti nel mio spazio di progresso e scoperta.
-
+<img align="center" width="50%" src="1701192416677.png" /> Benvenuti nel mio spazio di progresso e scoperta.
+<img align="center" width="20%" src="github.png" />
 
 </hr>
 
