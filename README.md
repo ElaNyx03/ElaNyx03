@@ -1,9 +1,11 @@
 
 
 <!--   grid-snake -->
-![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg)
+<!--![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg)-->
 
-
+<!--   GitHub stats graph -->
+### 📈 GitHub Activity Graph:
+![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
 
 
 
@@ -84,9 +86,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph:
-![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
+
 
 
 
