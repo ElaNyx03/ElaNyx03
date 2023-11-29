@@ -3,6 +3,16 @@
 <!--   grid-snake -->
 <!--![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg)-->
 
+
+<img width="200%" src="hr.gif" />
+
+<img width="200%" src="header_.png" />
+
+
+  <p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Benvenuti+nel+mio;spazio+di+progresso+e+scoperta!; Sempre+alla+ricerca;di+nuove sfide!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+</p>
+
 <!--   GitHub stats graph      ### 📈 GitHub Activity Graph:      -->
 
 ![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
@@ -13,9 +23,7 @@
 ElaNyx03/ElaNyx03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Benvenuti+nel+mio;spazio+di+progresso+e+scoperta!; Sempre+alla+ricerca;di+nuove sfide!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
-</p>
+
 
 
 ---
@@ -67,25 +75,15 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ElaNyx03&theme=dark&hide_border=true" width="400">
 </p>
 
-
-
-
----
-<a href="https://github.com/ElaNyx03"><img align="left" title="Github" alt="Github" width="200px" src="1701192416677.png" /></a>
-
-![Github Stats](https://github-stats-alpha.vercel.app/api/?username=ElaNyx03&tc=333&ic=333)
-
-
-![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ElaNyx03&theme=radical&layout=compact) 
-
-</hr>
-
-
-
 ---
 
+<img width="200%" src="hr.gif" />
 
+![Alt](https://repobeats.axiom.co/api/embed/0dbe0876bcd77711afe065847c30387a33e13917.svg "Repobeats analytics image")
 
+<img width="200%" src="hr.gif" />
+
+---
 
 
 
@@ -94,7 +92,7 @@ You can click the Preview link to take a look at your changes.
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
 
-
+<img width="200%" src="header_.png" />
   
 
 
