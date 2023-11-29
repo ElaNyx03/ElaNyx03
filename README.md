@@ -82,14 +82,12 @@ You can click the Preview link to take a look at your changes.
 
 <img width="200%" src="hr.gif" />
 <p align="center">
-  <img src="https://repobeats.axiom.co/api/embed/0dbe0876bcd77711afe065847c30387a33e13917.svg" alt="Repobeats analytics image"/>
+  <img src="https://repobeats.axiom.co/api/embed/1773e973422a7b68498718faa389225231a492f1.svg" alt="Repobeats analytics image"/>
 </p>
-
 
 <img width="200%" src="hr.gif" />
 
 ---
-
 
 
 
