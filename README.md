@@ -103,10 +103,10 @@ You can click the Preview link to take a look at your changes.
   <!--<img align="center" width="23%" src="1701192416682.png" /> 𝓡𝓮𝓪𝓭𝓶𝓮 𝓑𝔂 :::〘ElaNyx03〙:::-->
 
 <p align="center">
-  <img width="23%" src="1701192416682.png" />
+  <img width="40%" src="1701192416682.png" />
 </p>
 
-<h1 align="center">𝓡𝓮𝓪𝓭𝓶𝓮 𝓑𝔂 :::〘ElaNyx03〙:::</h1>
+<h3 align="center">𝓡𝓮𝓪𝓭𝓶𝓮 𝓑𝔂 :::〘ElaNyx03〙:::</h3>
 
 <p align="center">
   <a href="https://github.com/ElaNyx03?tab=followers">
