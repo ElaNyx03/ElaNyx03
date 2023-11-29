@@ -48,18 +48,21 @@ You can click the Preview link to take a look at your changes.
 
 </p>
 
+<p align="center">
+  <img width="20%" src="github.png" />
+</p>
 
-<img align="center" width="20%" src="github.png" />
+<hr>
 
-</hr>
+<p align="center">
+  <img src="https://img.shields.io/github/followers/ElaNyx03?style=social" alt="GitHub followers"/>
+  <img src="https://img.shields.io/github/stars/ElaNyx03?style=social" alt="GitHub User's stars"/>
+  <img src="https://img.shields.io/github/languages/top/ElaNyx03/ElaNyx03" alt="GitHub top language"/>
+  <img src="https://img.shields.io/badge/ElaNyx03-happycoding-success" alt="GitHub"/>
+</p>
 
-![GitHub followers](https://img.shields.io/github/followers/ElaNyx03?style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/ElaNyx03?style=social)
-![GitHub top language](https://img.shields.io/github/languages/top/ElaNyx03/ElaNyx03)
-![GitHub](https://img.shields.io/badge/ElaNyx03-happycoding-success)
 
-
-
+ ---
 
 ## Skills
 
