@@ -100,8 +100,41 @@ You can click the Preview link to take a look at your changes.
 <img width="200%" src="header_.png" />
   
 
+  <!--<img align="center" width="23%" src="1701192416682.png" /> 𝓡𝓮𝓪𝓭𝓶𝓮 𝓑𝔂 :::〘ElaNyx03〙:::-->
 
+<p align="center">
+  <img width="23%" src="1701192416682.png" />
+</p>
 
+<h1 align="center">𝓡𝓮𝓪𝓭𝓶𝓮 𝓑𝔂 :::〘ElaNyx03〙:::</h1>
 
-  <img align="center" width="23%" src="1701192416682.png" /> 𝓡𝓮𝓪𝓭𝓶𝓮 𝓑𝔂 :::〘ElaNyx03〙:::
+<p align="center">
+  <a href="https://github.com/ElaNyx03?tab=followers">
+    <img src="https://img.shields.io/github/followers/ElaNyx03?style=social" alt="GitHub followers"/>
+  </a>
+  <a href="https://github.com/ElaNyx03?tab=stars">
+    <img src="https://img.shields.io/github/stars/ElaNyx03?style=social" alt="GitHub User's stars"/>
+  </a>
+  <a href="https://github.com/ElaNyx03/ElaNyx03">
+    <img src="https://img.shields.io/github/languages/top/ElaNyx03/ElaNyx03" alt="GitHub top language"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/ElaNyx03-happycoding-success" alt="GitHub"/>
+  </a>
+</p>
 
+<h2 align="center">🚀 Welcome to my GitHub Profile! 🚀</h2>
+
+<p align="center">
+  I'm ElaNyx03, a passionate developer. I love coding, learning new technologies and contributing to open source projects. Feel free to check out my repositories and don't hesitate to contact me if you have any questions. Happy coding!
+</p>
+
+<h3 align="center">🔧 Technologies & Tools 🔧</h3>
+
+<p align="center">
+  <code><img height="20" src="https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=java&logoColor=black"></code>
+  <code><img height="20" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></code>
+  <code><img height="20" src="https://img.shields.io/badge/c++-339933?style=for-the-badge&logo=c++&logoColor=white"></code>
+ <code><img height="20" src="https://img.shields.io/badge/html-css-F7DF1E?style=for-the-badge&logo=html-css&logoColor=black"></code>
+  <!-- Add more badges from https://shields.io/ -->
+</p>
