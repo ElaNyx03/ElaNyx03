@@ -121,7 +121,12 @@ You can click the Preview link to take a look at your changes.
   </a>
 </p>
 
-<h2 align="center">🚀 Welcome to my GitHub Profile! 🚀</h2>
+<p align="center">
+  <img src="https://www.onelogin.com/images/patterns/technology-partner-logos/github.png" alt="GitHub "width="100px" />
+   Welcome to my GitHub Profile!
+     <img src="https://pngimg.com/uploads/github/github_PNG89.png" alt="GitHub "width="100px" /> </h2>
+</p>
+
 
 <p align="center">
   I'm ElaNyx03, a passionate developer. I love coding, learning new technologies and contributing to open source projects. Feel free to check out my repositories and don't hesitate to contact me if you have any questions. Happy coding!
