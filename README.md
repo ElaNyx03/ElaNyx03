@@ -123,8 +123,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
   <img src="https://www.onelogin.com/images/patterns/technology-partner-logos/github.png" alt="GitHub "width="100px" />
-   Welcome to my GitHub Profile!
-     <img src="https://pngimg.com/uploads/github/github_PNG89.png" alt="GitHub "width="100px" /> </h2>
+   Welcome to my Profile!<img src="https://pngimg.com/uploads/github/github_PNG89.png" alt="GitHub "width="100px" /> </h2>
 </p>
 
 
